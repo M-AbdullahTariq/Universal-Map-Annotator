@@ -1,0 +1,14 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Gemini / AI traces
+.gemini/
+.antigravity/
